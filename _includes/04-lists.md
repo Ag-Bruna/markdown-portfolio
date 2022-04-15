@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+* Japan
+  * Anime
+  * Manga
+  * Nihongo
+* Gaming
+* TV Series
+  * Sherlock Holmes
+  * Outlander
+  * GoT
+  * Grantchester
